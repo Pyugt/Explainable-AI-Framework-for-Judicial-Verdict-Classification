@@ -1,6 +1,6 @@
 # Explainable AI Framework for Judicial Verdict Classification
 
-An AI-powered framework for predicting and explaining Supreme Court of India verdicts using machine learning and Explainable AI (XAI) techniques
+An AI-powered framework for predicting and explaining Supreme Court of India verdicts using machine learning and Explainable AI (XAI) techniques.
 
 ---
 

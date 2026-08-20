@@ -6,7 +6,7 @@ An AI-powered framework for predicting and explaining Supreme Court of India ver
 
 ## Overview
 
-This project presents a transparent, legally justifiable system for classifying Indian Supreme Court judgments into three verdict categories — **Convicted**, **Acquitted**, and **Remanded** — using classical machine learning combined with multiple XAI layers. The goal is not just accurate prediction, but interpretable and auditable reasoning that aligns with Indian statutory law
+This project presents a transparent, legally justifiable system for classifying Indian Supreme Court judgments into three verdict categories — **Convicted**, **Acquitted**, and **Remanded** — using classical machine learning combined with multiple XAI layers. The goal is not just accurate prediction, but interpretable and auditable reasoning that aligns with Indian statutory law.
 
 The framework was developed as part of a research paper submitted to IEEE.
 
